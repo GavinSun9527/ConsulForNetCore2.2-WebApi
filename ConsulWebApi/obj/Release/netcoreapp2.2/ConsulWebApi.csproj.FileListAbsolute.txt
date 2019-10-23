@@ -1,0 +1,14 @@
+D:\project\My\ConsulWebApi\ConsulWebApi\bin\Release\netcoreapp2.2\ConsulWebApi.deps.json
+D:\project\My\ConsulWebApi\ConsulWebApi\bin\Release\netcoreapp2.2\ConsulWebApi.runtimeconfig.json
+D:\project\My\ConsulWebApi\ConsulWebApi\bin\Release\netcoreapp2.2\ConsulWebApi.runtimeconfig.dev.json
+D:\project\My\ConsulWebApi\ConsulWebApi\bin\Release\netcoreapp2.2\ConsulWebApi.dll
+D:\project\My\ConsulWebApi\ConsulWebApi\bin\Release\netcoreapp2.2\ConsulWebApi.pdb
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.csprojAssemblyReference.cache
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.csproj.CoreCompileInputs.cache
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.RazorAssemblyInfo.cache
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.RazorAssemblyInfo.cs
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.AssemblyInfoInputs.cache
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.AssemblyInfo.cs
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.RazorTargetAssemblyInfo.cache
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.dll
+D:\project\My\ConsulWebApi\ConsulWebApi\obj\Release\netcoreapp2.2\ConsulWebApi.pdb
